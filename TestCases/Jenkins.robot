@@ -21,11 +21,22 @@ ${CCTYPE}            2
 ${EXPMONTH}          5
 ${EXPYEAR}           11
 ${CVVNUMBER}         321
-${title}
-${order_no}
 
+<<<<<<< HEAD
 456
 889
+=======
+#${title}
+#${order_no}
+#12345
+#123
+
+123
+1234
+4564
+4564
+
+>>>>>>> 0a76c15c3875ec54456411106b00446d43dd0ddb
 
 ****** test cases ***
 
